@@ -1,0 +1,12 @@
+{
+    "name": "World Marshal Web",
+    "author": "Lambda",
+    "difficulty": "medium",
+    "category": "misc",
+    "description": "ROP LLC, the World's leading definitely-not-evil cybersecurity firm, is under growing scrutiny. As their newest intern, you must make ropllc.com popular so the company can use it to spread propaganda - I mean, spread their Good Name - more effectively.",
+    "discord": "adaisyx_",
+    "flag": "LNC25{s377!n9_A_5P1d3R7r4p}",
+    "port": 5000,
+    "service": "netcat",
+    "displayed_description": "ROP LLC, the World's leading definitely-not-evil cybersecurity firm, is under growing scrutiny. As their newest intern, you must make ropllc.com popular so the company can use it to spread propaganda - I mean, spread their Good Name - more effectively.\n\n`nc chal1.lagncra.sh 8457`\n\n`nc chal2.lagncra.sh 8457`"
+}

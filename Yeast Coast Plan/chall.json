@@ -1,0 +1,15 @@
+{
+    "name": "Yeast Coast Plan",
+    "author": "Lambda",
+    "difficulty": "medium",
+    "category": "osint",
+    "description": "Gastronomy Elections 2025 is coming up, but I've lost my secret recipe to win all the voters' hearts and stomachs. Campaign manager, help me find my Yeast Coast Plan!!",
+    "discord": "adaisyx_",
+    "flag": "LNC25{r3dD!7_Api_h45_mY_v073}",
+    "hints": [
+        {
+            "cost": 100,
+            "description": "Reddit API library"
+        }
+    ]
+}

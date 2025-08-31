@@ -1,0 +1,10 @@
+{
+    "name": "YOU ep2",
+    "author": "Lambda",
+    "category": "osint",
+    "difficulty": "medium",
+    "description": "far from my home - where he now prowls, \n\na hunter with a gun \n\nin train cars packed with strangers i'm \n\na girl now on the run",
+    "discord": "adaisyx_",
+    "flag": "LNC25{munich_515_ice4_1_21}",
+    "requirements": ["YOU ep1"]
+}

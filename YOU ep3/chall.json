@@ -1,0 +1,10 @@
+{
+    "name": "YOU ep3",
+    "author": "Lambda",
+    "difficulty": "hard",
+    "category": "osint",
+    "description": "i'm Over and Pass the border \n\ntime to Turbo-start anew \n\ni left no trace, i will be safe \n\nunless my stalker is...",
+    "discord": "adaisyx_",
+    "flag": "LNC25{46.6326,14.3107}",
+    "requirements": ["YOU ep2"]
+}
